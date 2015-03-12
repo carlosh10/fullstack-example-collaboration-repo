@@ -47,4 +47,4 @@
 * brian stone
 * Diego Lafuente
 * Julio Tirado
-* Carlos Souza
+* Carlos H Souza
